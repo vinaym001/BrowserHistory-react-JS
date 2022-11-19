@@ -1,0 +1,38 @@
+* {
+  margin: 0px;
+}
+
+.header {
+  height: 10vh;
+  background-color: #3367d6;
+  width: 100vw;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+}
+.app-logo {
+  height: 25px;
+}
+.search {
+  background-color: #2850a7;
+  height: 25px;
+  width: 25px;
+  margin-right: 5px;
+}
+.input-bar {
+  height: 25px;
+  width: 400px;
+  outline: none;
+  border-width: 0px;
+  background-color: #2850a7;
+}
+.input-container {
+  display: flex;
+  align-items: center;
+  margin-left: 400px;
+}
+.ul-container {
+  padding: 30px;
+  margin: 30px;
+  box-shadow: 0px, 4px,16px, 0px;
+}

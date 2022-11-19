@@ -1,0 +1,41 @@
+.li-container {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+  justify-content: space-between;
+}
+
+.time {
+  color: #475569;
+  font-weight: bold;
+  font-family: 'roboto';
+  margin-right: 40px;
+}
+.logo-url {
+  width: 20px;
+  height: 20px;
+  margin-right: 15px;
+}
+.title {
+  color: #475569;
+  font-family: 'roboto';
+  margin-right: 15px;
+  font-weight: bold;
+}
+.domain-url {
+  color: #64748b;
+  font-family: 'roboto';
+}
+.del-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 2px;
+}
+.content-container {
+  display: flex;
+}
+.del-btn {
+  background-color: transparent;
+  border-width: 0px;
+}
